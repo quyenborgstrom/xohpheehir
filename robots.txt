@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fuceerieh.rewika.pl/sitemap.xml
